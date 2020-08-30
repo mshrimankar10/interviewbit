@@ -1,5 +1,3 @@
-package array;
-
 /**
  * 
  * Given an array of real numbers greater than zero in form of strings.
